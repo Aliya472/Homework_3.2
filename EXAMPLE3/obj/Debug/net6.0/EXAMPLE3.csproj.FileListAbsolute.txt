@@ -1,0 +1,15 @@
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\obj\Debug\net6.0\EXAMPLE3.csproj.AssemblyReference.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\obj\Debug\net6.0\EXAMPLE3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\obj\Debug\net6.0\EXAMPLE3.AssemblyInfoInputs.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\obj\Debug\net6.0\EXAMPLE3.AssemblyInfo.cs
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\obj\Debug\net6.0\EXAMPLE3.csproj.CoreCompileInputs.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\bin\Debug\net6.0\EXAMPLE3.exe
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\bin\Debug\net6.0\EXAMPLE3.deps.json
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\bin\Debug\net6.0\EXAMPLE3.runtimeconfig.json
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\bin\Debug\net6.0\EXAMPLE3.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\bin\Debug\net6.0\EXAMPLE3.pdb
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\obj\Debug\net6.0\EXAMPLE3.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\obj\Debug\net6.0\refint\EXAMPLE3.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\obj\Debug\net6.0\EXAMPLE3.pdb
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\obj\Debug\net6.0\EXAMPLE3.genruntimeconfig.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.2\EXAMPLE3\obj\Debug\net6.0\ref\EXAMPLE3.dll
